@@ -1,4 +1,4 @@
-# Desafío Analytics Engineer — Masterplop
+# Desafío Analytics Engineer - Masterplop
 
 **Laura Inés Martínez Suárez**  
 Mayo 2026
